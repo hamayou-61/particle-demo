@@ -30,7 +30,7 @@
   },
   "image": {
     "src": {
-      "path": "/joh.svg",
+      "path": "./joh.svg",
       "is_external": true
     },
     "size": {
